@@ -6,7 +6,7 @@ description: This category has info on the Shop
 
 ## Introduction
 
-The shop allows you to buy almost every item in the game at a somewhat reasonable price, and you can also sell items but there aren't a lot of items to sell. Also there is a limited stock so make sure to buy it when you can and prices can be raised or lowered depending on how much is in stock. The castegories for the shop are ores, redstone stuff, nature, food, block, colors, potions, loot & mob drops, enchants, fish, special items, and disc.
+The shop allows you to buy almost every item in the game at a somewhat reasonable price, and you can also sell items but there aren't a lot of items to sell. Also there is a limited stock so make sure to buy it when you can and prices can be raised or lowered depending on how much is in stock. The categories for the shop are ores, redstone stuff, nature, food, block, colors, potions, loot & mob drops, enchants, fish, special items, and disc.
 
 
 {% hint style="info" %}
